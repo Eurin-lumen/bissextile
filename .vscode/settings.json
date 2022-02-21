@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "annee",
+        "année",
+        "booléen",
+        "crée",
+        "désire",
+        "Entrez",
+        "être",
+        "l'année",
+        "L'année",
+        "l'utilisateur",
+        "nombre",
+        "rentré",
+        "vrai"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:bissextile}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
